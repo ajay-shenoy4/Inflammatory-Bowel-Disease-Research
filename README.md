@@ -1,6 +1,6 @@
 # The Effects of Inflammatory Bowel Disease on Brain Microstructure
 
-![Project Status](https://img.shields.io/badge/Research-Completed-success)
+![Research Status](https://img.shields.io/badge/Research-In_Progress-orange)
 ![Field](https://img.shields.io/badge/Field-Neuroscience-blue)
 ![Analysis](https://img.shields.io/badge/Analysis-Python_/_Pandas-orange)
 
